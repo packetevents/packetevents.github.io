@@ -15,7 +15,7 @@ PacketEvents is licensed under the MIT license and offers quick support on the d
 
 ### Sponsorships
 <a href="https://www.ej-technologies.com/products/jprofiler/overview.html"> 
-<img align="left" src="https://www.ej-technologies.com/images/product_banners/jprofiler_small.png"> 
+<img align="center" src="https://www.ej-technologies.com/images/product_banners/jprofiler_small.png"> 
 
 
 ### Support or Contact
