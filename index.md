@@ -10,3 +10,8 @@ PacketEvents is licensed under the MIT license and offers quick support on the d
 
 ### Support or Contact
 [Discord Server](https://discord.me/packetevents)
+
+### Sponsorships
+#### JProfiler
+<a href="https://youtube.com"> 
+<img align="left" src="https://www.ej-technologies.com/images/product_banners/jprofiler_small.png"> 
