@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 title: PacketEvents
 description: Open source Spigot Packet API.
 show_downloads: false
