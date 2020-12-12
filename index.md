@@ -6,4 +6,4 @@ The API is updated frequently with new optimizations and features.
 PacketEvents is licensed under the MIT license and offers quick support on the discord server!
 
 ### Support or Contact
-[Discord Server](httpe://discord.me/packetevents)
+[Discord Server](https://discord.me/packetevents)
